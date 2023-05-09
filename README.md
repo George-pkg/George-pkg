@@ -1,7 +1,7 @@
 <h1 align="center">Hello Wolrd!</h1>
 
 
-  <h2>My name is<strong>George</strong></h2>
+  <h2 align="center">My name is **George**</h2>
 
 
 <div align="center" >
