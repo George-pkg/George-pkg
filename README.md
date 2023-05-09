@@ -17,7 +17,7 @@
   <h2>Currently studying</h2>
 </div>
 
-<div style="display: inline_block"> 
+<div align="center"> 
   <h2>My social media</h2>
 
   <a href="https://instagram.com/eve_matoss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
