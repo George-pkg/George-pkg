@@ -1,7 +1,8 @@
 <h1 align="center">Hello Wolrd!</h1>
 
 
-  <h2 align="center">My name is **George**</h2>
+<h3 align="center">My name is George</h3>
+<h4 align="center">But my nickname is Gerge</h4>
 
 
 <div align="center" >
