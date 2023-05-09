@@ -12,9 +12,9 @@
 <div>
   <h2>My social media</h2>
 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn"><a src="https://www.linkedin.com/in/george-rocha-a5949a251/"></a></img>
+  <a src="https://www.linkedin.com/in/george-rocha-a5949a251/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn"></img></a>
 
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"><a src="https://twitter.com/reigerge" ></a></img>
+  <a src="https://twitter.com/reigerge" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></img></a>
 
 </div>
 
