@@ -10,7 +10,7 @@
 </div>
 
 <div>
-  <h3>My social media</h3>
+  <h2>My social media</h2>
 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn"><a src="https://www.linkedin.com/in/george-rocha-a5949a251/"></a></img>
 
