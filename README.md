@@ -1,9 +1,7 @@
 <h1 align="center">Hello Wolrd!</h1>
 
 
-<h3 align="center">My name is George</h3>
-<h4 align="center">But my nickname is Gerge</h4>
-
+<h3 align="center">My name is George, but my nickname is Gerge</h3>
 
 <div align="center" >
   <a href="https://github.com/kawazuke">
