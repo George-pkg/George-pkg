@@ -1,4 +1,4 @@
-<h1>Hello Wolrd!</h1>
+<h1 align="center">Hello Wolrd!</h1>
 
 <div align="center" >
   <a href="https://github.com/kawazuke">
