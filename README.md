@@ -31,9 +31,10 @@
   <a href="https://www.instagram.com/george_guiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/george-rocha-a5949a251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <div align="right">
+    <img style="width: 200px; height: 200px; align-self: right;" src="https://media.discordapp.net/attachments/1105683978410790914/1105684100674768947/download20230502173837.png?width=580&height=580">
+  </div>
 </div>
-<div align="right">
-  <img style="width: 200px; height: 200px; align-self: right;" src="https://media.discordapp.net/attachments/1105683978410790914/1105684100674768947/download20230502173837.png?width=580&height=580">
-</div>
+
 
 ![Snake animation](https://github.com/Kawazuke/Kawazuke/blob/output/github-contribution-grid-snake.svg)
