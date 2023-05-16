@@ -1,4 +1,4 @@
-<h1 align="center">Hello Wolrd!</h1>
+<h1 align="center">Hello World!</h1>
 
 
 <h3 align="center">My name is George, but my nickname is Gerge</h3>
