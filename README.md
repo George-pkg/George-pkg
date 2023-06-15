@@ -35,6 +35,3 @@
     <img style="width: 200px; height: 200px; align-self: right;" src="https://media.discordapp.net/attachments/1105683978410790914/1105684100674768947/download20230502173837.png?width=580&height=580">
   </div>
 </div>
-
-
-![Snake animation](https://github.com/kawazuke/kawazuke/blob/output/github-contribution-grid-snake.svg)
