@@ -4,17 +4,17 @@
 <h3 align="center">My name is George, but my nickname is Gerge</h3>
 
 <div align="center" >
-  <a href="https://github.com/kawazuke">
-  <img width="450em" height="190em" src="https://github-readme-stats.vercel.app/api?username=Kawazuke&show_icons=true&count_private=true&theme=tokyonight" />
-  <img width="380em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawazuke&layout=compact&count_private=true&theme=tokyonight" />
+  <a href="https://github.com/George-pkg">
+  <img width="450em" height="190em" src="https://github-readme-stats.vercel.app/api?username=George-pkg&show_icons=true&count_private=true&theme=tokyonight" />
+  <img width="380em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-pkg&layout=compact&count_private=true&theme=tokyonight" />
 </div>
 
 <div>
   <h2>My main languages</h2>
-  <a href="https://github.com/kawazuke?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/kawazuke?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/kawazuke?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
-  <a href="https://github.com/kawazuke?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/George-pkg?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/George-pkg?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/George-pkg?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
+  <a href="https://github.com/George-pkg?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
 </div>
 
