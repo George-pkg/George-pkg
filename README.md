@@ -11,6 +11,7 @@
 
 <div>
   <h2>My main languages</h2>
+  <a href="https://github.com/George-pkg?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank"></a>
   <a href="https://github.com/George-pkg?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
   <a href="https://github.com/George-pkg?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
   <a href="https://github.com/George-pkg?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
@@ -20,9 +21,14 @@
 
 <div>
   <h2>My secondary languages</h2>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
 
+</div>
+
+<div>
+  <h2>My Tools</h2>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" target="_blank"></a>
 </div>
 
 <div display="inline_block"> 
